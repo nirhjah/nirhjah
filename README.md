@@ -1,1 +1,2 @@
 # Hello! :wave: 
+[![Nirhjah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirhjah)](https://github.com/anuraghazra/github-readme-stats)
